@@ -3,6 +3,7 @@
 Create the below directory structure: (test is the home directory)
 
 YEAR: 2010
+
 test/2010/unit1/change1/version1/requirement1/
 test/2010/unit1/change1/version1/requirement2/
 test/2010/unit1/change1/version2/ 
@@ -11,6 +12,7 @@ test/2010/unit2/
 test/2010/unit3/
 
 YEAR:2011
+
 test/2011/unit1/change1/version1/requirement1/
 test/2011/unit1/change1/version1/requirement2/
 test/2011/unit1/change1/version2/ 
@@ -19,6 +21,7 @@ test/2011/unit2/
 test/2011/unit3/
 
 YEAR:2012
+
 test/2012/unit1/change1/version1/requirement1/
 test/2012/unit1/change1/version1/requirement2/
 test/2012/unit1/change1/version2/ 
@@ -27,6 +30,7 @@ test/2012/unit2/
 test/2012/unit3/
 
 YEAR:2013
+
 test/2013/unit1/change1/version1/requirement1/
 test/2013/unit1/change1/version1/requirement2/
 test/2013/unit1/change1/version2/ 
@@ -35,6 +39,7 @@ test/2013/unit2/
 test/2013/unit3/
 
 YEAR:2014
+
 test/2014/unit1/change1/version1/requirement1/
 test/2014/unit1/change1/version1/requirement2/
 test/2014/unit1/change1/version2/ 
