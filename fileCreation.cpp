@@ -31,7 +31,7 @@ for(int i=0; i<1000; i++)
 			char *random = gen_random(test, 5);
 			char fileCreate[100];
 			int re;
-			if(i < 100)
+			if(i < 500)
 			{
 				strncpy(fileCreate, "/home/navin/Desktop/filecreation/test/2010/unit1/change1/version1/requirement1/name:", 100);
 				re = 84;
